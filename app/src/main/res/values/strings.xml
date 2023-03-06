@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Uber Fare App</string>
+    <string name="txt_directions">Select your vehicle</string>
+    <string name="radio_sedan">Sedan</string>
+    <string name="radio_van">Van</string>
+    <string name="radio_smart_car">Smart Car</string>
+    <string name="btn_act_2">Continue</string>
+    <string name="txt_distance">Enter Distance</string>
+    <string name="txt_a2_directions">Summary of Fare</string>
+    <string name="txt_sum_heading">Calculated Summary</string>
+    <string name="txt_sum_vehicle">Vehicle Choice</string>
+    <string name="txt_sum_distance">Distance</string>
+    <string name="txt_sum_cost">Cost of Fare</string>
+    <string name="btn_act_3">Accept</string>
+    <string name="btn_main_1">Go Back</string>
+    <string name="txt_heading">Verification</string>
+    <string name="txt_driver">Your driver, Bart Simpson, is on his way.</string>
+</resources>
